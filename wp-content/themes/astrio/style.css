@@ -1,0 +1,221 @@
+/*
+Theme Name: Astrio
+Theme URI: https://www.britetechs.com/free-astrio-wordpress-theme/
+Author: Britetechs
+Author URI: https://britetechs.com/
+Description: Astrio is a powerful creative, flexible WordPress theme that suitable for business kind of websites, blog, agency, freelancers and e-commerce. This theme provides awesome multiple layouts features to make your beautiful websites. It is easy to use and provides many customize options to manage your frontpage sections, as well as the custom page templates etc. (Live preview : https://britetechs.com/demo/themes/astrio-pro/)
+Tags: sticky-post, one-column, two-columns, three-columns, right-sidebar, custom-header, custom-menu, featured-images, footer-widgets, theme-options, threaded-comments, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+Template: businesswp
+Version: 0.4
+Requires PHP: 5.6.2
+Requires at least: WordPress 4.1
+Tested up to: 5.8
+License: GNU General Public License 3.0
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: astrio
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html)
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+button, 
+.button, 
+input[type="submit"], 
+input[type="reset"]{
+	letter-spacing: 1px;
+}
+
+/* Main Navigation */
+
+@media screen and (min-width: 991px){
+
+	.tranparent_header .primary_menu {
+
+        border-bottom: 0;
+
+    }
+}
+
+/* Section Header */
+
+.section-subtitle{
+	border-radius: 4px;
+}
+
+.section-description a{
+	text-decoration: underline;
+}
+
+/* Slider */
+
+.slider .slide.overlay::before {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.slide-subtitle{
+	background-color: var(--primary-color);
+	color: #fff;
+	padding: 8px 20px;
+	border-radius: 4px;
+	display: inline-block;
+	font-weight: normal;
+}
+
+.owl-carousel .owl-nav button.owl-prev, 
+.owl-carousel .owl-nav button.owl-next{
+	color: #fff;
+	background-color: var(--primary-color);
+	border-radius: 0;
+	transition: all .6s ease-in-out;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+.owl-carousel .owl-nav button.owl-prev:hover{
+	margin-left: 30px;
+}
+
+.owl-carousel .owl-nav button.owl-next:hover{
+	margin-right: 30px;
+}
+
+.slider_footer .button.slider_btn{
+	letter-spacing: 1px;
+}
+
+.slider_footer .button.slider_btn:hover,
+.slider_footer .button.slider_btn:focus{
+	background-color: #ffffff !important;
+	color: var(--heading-color) !important;
+}
+
+.slide.overlay::before{
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.slide .slide-content a{
+	color: var(--primary-color);
+}
+
+/* Post Meta */
+
+.entry-meta {
+    background-color: rgba(var(--primary-r-color), var(--primary-g-color), var(--primary-b-color), 0.2);
+    padding: 15px 25px;
+}
+
+/* Info Section */
+
+.info-section {
+    position: relative;
+    margin-top: 72px;
+}
+
+.info-section .info-area {
+	display: flex;
+    flex: 2;
+}
+
+@media (min-width: 992px) {
+
+    .slider + .info-section {
+        margin-top: -78px;
+        margin-bottom: 20px;
+    }
+    
+}
+
+.info-section .widget-info-wrap {
+    padding: 15px;
+    position: relative;
+    color: var(--heading-color);
+    background: #fff;
+    border-radius: 4px;
+    z-index: 1;
+    box-shadow: 0px 15px 35px rgb(0 0 0 / 10%);
+    transition: all .3s ease-in-out;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.info-section .widget-info-wrap:after{
+	content: '';
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	bottom: -100%;
+	left: 0;
+	z-index: -1;
+	background-color: var(--primary-color);
+	transition: all .3s ease-in-out;
+}
+
+.info-section .widget-info-wrap:hover:after{
+	bottom: 0;
+}
+
+.info-section .info-icon span {
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: .95rem;
+    width: 5rem;
+    height: 5rem;
+    line-height: 5rem;
+    font-size: 3rem;
+    text-align: center;
+    border-radius: 100%;
+    position: relative;
+    color: var(--heading-color);
+    transition: all .3s ease-in-out;
+}
+
+.info-section .info-content .info-title {
+    margin-bottom: 0.625rem;
+    font-size: 1.563rem;
+}
+
+.info-section .info-content .info-text {
+    color: var(--body-color);
+}
+
+.info-section .info-content .info-text a {
+    text-decoration: underline;
+}
+
+.info-section .info-content{
+	margin-left: 10px;
+}
+
+.info-section .widget-info-wrap:hover span,
+.info-section .widget-info-wrap:hover span a,
+.info-section .widget-info-wrap:hover .info-title,
+.info-section .widget-info-wrap .info-title:hover a,
+.info-section .widget-info-wrap:hover .info-text{
+	color: #fff;
+}
+
+.info-section .widget-info-wrap:hover .info-text a{
+	color: var(--heading-color);
+}
+
+/* Sub Header */
+
+.page-header.overlay::before{
+	background-color: rgba(0, 0, 0, .66);
+}
+
+.slide-content a,
+.service-wrap-desc a,
+.testimonial-description a,
+.portfolio-category-2 a,
+.widget.widget_text a,
+.comment-content a,
+.comment-respond a,
+.contact-content a,
+.copyright a{
+	text-decoration: underline;
+}

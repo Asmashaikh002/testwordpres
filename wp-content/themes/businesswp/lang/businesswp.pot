@@ -1,0 +1,3187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: businesswp\n"
+"POT-Creation-Date: 2021-09-25 15:19+0530\n"
+"PO-Revision-Date: 2021-09-25 15:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\businesswp\\wp-content\\themes"
+"\\businesswp-pro\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\businesswp\\wp-content\\themes"
+"\\businesswp-pro\n"
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/404.php:7
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1178
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/404.php:8
+msgid "Oops! Page not found"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/404.php:9
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/404.php:10
+msgid "Home Page"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/archive.php:41
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/index.php:41
+msgid "Search:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/archive.php:49
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/index.php:49
+#, php-format
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/archive.php:57
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/index.php:57
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form below."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/archive.php:60
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/index.php:62
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/comments.php:18
+msgctxt "comments title"
+msgid "One comment"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/comments.php:23
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:122
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:314
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:28
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:286
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:438
+msgid "Top Bar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:123
+msgid "Primary"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:124
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:100
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:367
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:416
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:510
+msgid "Footer"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:200
+msgid "Britetechs Companion"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:202
+msgid ""
+"We highly recommend that you install the britetechs companion plugin to gain "
+"access to the extra theme sections."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:206
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:225
+msgid "Contact Form 7"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:208
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:227
+msgid ""
+"This is also recommended that you install the contact form plugin to show "
+"contact form on the contact page."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:213
+msgid "WP Google Maps"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:215
+msgid ""
+"This is also recommended that you install the google map plugin to show "
+"google map on the contact us page."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:219
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:221
+msgid ""
+"This is also recommended that you install the newsletter form plugin to show "
+"subscribe form on the homepage newsletter section."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:248
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:250
+msgid "This sidebar will be displayed in the left or right sidebar area."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:259
+msgid "Left Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:261
+msgid ""
+"This sidebar area are used in the left sidebar region if you use the Both "
+"Sidebars layout."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:270
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:272
+msgid "Footer 1 Sidebar Area"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:281
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:283
+msgid "Footer 2 Sidebar Area"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:292
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:294
+msgid "Footer 3 Sidebar Area"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:303
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:305
+msgid "Footer 4 Sidebar Area"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:316
+msgid "This sidebar will be displayed in the header area."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:325
+msgid "Woocommerce"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:327
+msgid "This sidebar will be displayed in the woocommerce pages."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:412
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/functions.php:413
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/header-home.php:19
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/header.php:19
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/searchform.php:10
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1244
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:41
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:32
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:43
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:54
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:65
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:48
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:64
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:76
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:78
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:94
+msgid "Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:85
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:87
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:338
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:545
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:831
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:846
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:861
+msgid "Buy Now"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:163
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:318
+msgid "Section Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:165
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:320
+msgid "Section Title Here"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:167
+msgid "Section Description Here"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/businesswp-theme-default-data.php:190
+msgid "Message Us"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/markup.php:193
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/woocommerce/functions.php:6
+#, php-format
+msgid "<span class=\"cart-value\">%d</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1137
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1142
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1147
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1152
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1157
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1162
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1167
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1183
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1137
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1142
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1147
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1075
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1152
+msgid "All posts by"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1157
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1162
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1167
+msgid "Shop"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1178
+#, php-format
+msgid "Error: %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1183
+msgid "Search results for"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1240
+#, php-format
+msgid ""
+"<form method=\"get\" class=\"search-form search-nav\" action=\"%1$s\">\n"
+"            <input type=\"search\" class=\"search-field\" placeholder=\"%2$s"
+"\" value=\"%3$s\" name=\"s\" />\n"
+"          </form>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1249
+#, php-format
+msgid ""
+"%1$s<li class=\"menu-search-icon\"><a href=\"#\"><i class=\"fa fa-search\"></"
+"i></a>%2$s</li>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1514
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1518
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1522
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1526
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1530
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1534
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1538
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1542
+#, php-format
+msgid "Archive: %s "
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1557
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1563
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:25
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:93
+msgid "1"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1561
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1584
+msgid "Archive by category"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1588
+msgid "Search results for "
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1694
+msgid "Posts tagged "
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1700
+msgid "Article posted by "
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1704
+msgid "Error 404 "
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1711
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1751
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1782
+msgctxt "My text starter contents"
+msgid "About US"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1752
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1783
+msgctxt "My text starter contents"
+msgid ""
+"Lorem ipsum dolor sit amet consectetur dipisicing elit sed do eiusmod tempor "
+"incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1758
+msgctxt "My text starter contents"
+msgid "search"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1766
+msgctxt "My text starter contents"
+msgid "categories"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1774
+msgctxt "My text starter contents"
+msgid "calendar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1802
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1835
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1867
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:1938
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/classes/class-businesswp-walker-page.php:104
+msgid "Show sub menu"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:2087
+msgid "Theme Screenshot"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:2094
+#, php-format
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:2098
+msgid ""
+"To take full advantage of all the features of this theme, please install and "
+"activate the <strong>Britetechs Companion</strong> plugin, then enjoy this "
+"theme."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/template-tags.php:2104
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/classes/class-businesswp-walker-page.php:67
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/additional-customizer-controls.php:24
+msgid "Premium Features"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/additional-customizer-controls.php:27
+msgid "Get Support"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/additional-customizer-controls.php:30
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/additional-customizer-controls.php:33
+msgid "Love it"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/additional-customizer-controls.php:49
+msgid "and get the more advanced premium styling features."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-panels.php:9
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:19
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:26
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-panels.php:21
+msgid "Colors"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-panels.php:34
+msgid "Frontpage Sections"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-panels.php:47
+msgid "Templates Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-panels.php:60
+msgid "Background Images"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-panels.php:73
+msgid "Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:10
+msgid "Container"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:37
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:295
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:447
+msgid "Header"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:46
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:304
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:456
+msgid "Primary Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:55
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:313
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:465
+msgid "Secondary Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:64
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:246
+msgid "Sticky Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:73
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:322
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:474
+msgid "Off Canvas Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:82
+msgid "Sidebars"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:91
+msgid "Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:114
+msgid "Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:123
+msgid "About"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:133
+msgid "Service"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:143
+msgid "Newsletter"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:152
+msgid "Counter"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:161
+msgid "Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:170
+msgid "Callout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:179
+msgid "Pricing"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:188
+msgid "Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:197
+msgid "Team"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:206
+msgid "News"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:215
+msgid "Client"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:224
+msgid "Contact"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:237
+msgid "About Us Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:246
+msgid "Services Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:255
+msgid "Contact Us Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:268
+msgid "Primary Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:277
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:380
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:429
+msgid "Body"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:331
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:483
+msgid "Button"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:340
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:389
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-spacing/class/class-spacing-control.php:58
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:70
+msgid "Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:349
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:358
+msgid "Form"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:398
+msgid "Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:407
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:471
+msgid "Footer Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:492
+msgid "Headings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/businesswp-sections.php:501
+msgid "Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/core-custom-section-panel/businesswp-custom-base-customizer-settings.php:28
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:844
+msgid "None"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-base/class/class-customize-base-control.php:10
+msgid "Clear"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-base/class/class-customize-base-control.php:11
+msgid "Clear color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-base/class/class-customize-base-control.php:12
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:280
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-base/class/class-customize-base-control.php:13
+msgid "Select default color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-base/class/class-customize-base-control.php:14
+msgid "Select Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-base/class/class-customize-base-control.php:15
+msgid "Color value"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-notify/businesswp-customizer-notify.php:110
+msgid "Activating"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:38
+msgid "Add new field"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:43
+msgid "Customizer Repeater"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:350
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:361
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:556
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:566
+msgid "Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:371
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:576
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:90
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:40
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-service-page-setting.php:25
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:380
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:585
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:74
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:25
+msgid "Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:389
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:453
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:594
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:657
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:274
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:354
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:466
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:578
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:690
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:786
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:880
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1092
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1178
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1262
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1332
+msgid "Text"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:398
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:603
+msgid "Currency"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:407
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:612
+msgid "Price"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:416
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:621
+msgid "Price Time"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:425
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:630
+msgid "Featured"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:434
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:639
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:232
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:262
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:307
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:351
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:85
+msgid "Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:443
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:462
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:648
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:666
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:879
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:902
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:894
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1106
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1192
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1276
+msgid "Link"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:472
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:675
+msgid "Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:484
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:687
+msgid "Open in a new tab"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:493
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:696
+msgid "Designation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:502
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:705
+msgid "Video URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:527
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:717
+msgid "Delete field"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:788
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:842
+msgid "Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:794
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:863
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:795
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:864
+msgid "//fontawesome.io/icons/"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:823
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:843
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:199
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:826
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:82
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:88
+msgid "Upload Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:839
+msgid "Image type"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:858
+msgid "Social icons"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:882
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:904
+msgid "Remove Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:887
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:911
+msgid "Add Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:917
+msgid "Content Align"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:919
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:170
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:358
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:399
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:464
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:485
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:901
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1054
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1125
+msgid "Left"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:920
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:171
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:359
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:465
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:902
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1055
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1126
+msgid "Center"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:921
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:172
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:360
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:400
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:466
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:486
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:903
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1056
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1127
+msgid "Right"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:30
+msgid "Wide"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:31
+msgid "Boxed"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:48
+msgid "Container Width (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:86
+msgid "Content Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:90
+msgid "Separate Containers"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:91
+msgid "One Container"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:107
+msgid "Top Bar Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:124
+msgid "Top Bar Width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:128
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:149
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:318
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:338
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:435
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:455
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:424
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:444
+msgid "Full"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:129
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:150
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:319
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:339
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:436
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:456
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:425
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:445
+msgid "Contained"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:145
+msgid "Top Bar Inner Width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:166
+msgid "Top Bar Alignment"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:188
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:130
+msgid "Office Time"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:205
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:85
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:222
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:70
+msgid "Phone"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:242
+msgid "Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:257
+msgid "Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:276
+msgid "Header Presets"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:281
+msgid "Navigation Before"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:282
+msgid "Navigation After"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:283
+msgid "Navigation Before - Centered"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:284
+msgid "Navigation After - Centered"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:285
+msgid "Navigation left"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:299
+msgid "Transparent header"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:314
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:420
+msgid "Navigation Width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:334
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:440
+msgid "Navigation inner width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:354
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:460
+msgid "Navigation Alignment"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:375
+msgid "Navigation Dropdown"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:379
+msgid "Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:380
+msgid "Click & Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:395
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:481
+msgid "Navigation Direction"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:415
+msgid "Navigation search icon show"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:431
+msgid "Footer Width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:451
+msgid "Footer Inner Width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:494
+msgid "Footer Back To Top"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:498
+msgid "Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:499
+msgid "Disable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:516
+msgid "Footer Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:534
+msgid "Content Type"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:538
+msgid "Full Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:539
+msgid "Excerpt"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:554
+msgid "Sidebar Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:558
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:582
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:606
+msgid "Sidebar / Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:559
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:583
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:607
+msgid "Content / Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:560
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:584
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:608
+msgid "Content ( No Sidebar )"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:561
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:585
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:609
+msgid "Sidebar / Content / Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:562
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:586
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:610
+msgid "Sidebar / Sidebar / Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:563
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:587
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:611
+msgid "Content / Sidebar / Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:578
+msgid "Archive Sidebar Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:602
+msgid "Single Post Sidebar Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:642
+msgid "Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:645
+msgid "Add new social icon"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:646
+msgid "Social Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:659
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/customizer/theme-options/businesswp-theme-layout-settings.php:661
+msgid "Get Supports & Love it"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/class-install-helper.php:55
+msgid "Install and activate"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/class-install-helper.php:75
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/customizer_recommended_plugin.php:16
+msgid "Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/class-install-helper.php:119
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:88
+msgid "Activating "
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/customizer_recommended_plugin.php:13
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:178
+msgid "Recommended Actions"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/customizer_recommended_plugin.php:14
+msgid "Recommended Plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/customizer_recommended_plugin.php:15
+msgid "Install and Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/inc/install/customizer_recommended_plugin.php:17
+msgid "Deactivate"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:3
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:3
+msgid "Businesswp Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:152
+msgid "Secondary"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:153
+msgid "Off Canvas Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:198
+msgid "Style Changer"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:200
+msgid "Select Color Style"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:213
+msgid "Layout Style"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:219
+msgid "Pattern Backgrounds"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:242
+msgid "Businesswp Pro Data"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:243
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:42
+msgid "Import Demo Data"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/businesswp-pro.php:280
+msgid ""
+"Now click on the bottom button to import theme data, After you import this "
+"demo, Enjoy the theme."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-aboutus.php:16
+msgid "Te est consul graeco."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-aboutus.php:20
+msgid "At inermis praesent usu."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-aboutus.php:24
+msgid "Movet oblique probatus."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:30
+msgid "Beauty"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:31
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:42
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:53
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:64
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:578
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:586
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:594
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:602
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:610
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:618
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:784
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:792
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:800
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:808
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:41
+msgid "Wellness"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:52
+msgid "Massage"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/template-service.php:63
+msgid "Hair Care"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:32
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:897
+msgid "Opening Hours - 9am to 5pm"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:261
+msgid "Who We Are?"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:262
+msgid "About <b>Us</b>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:266
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:349
+msgid "View More"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:274
+msgid "Our Services"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:275
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:322
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:533
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:544
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:555
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry "
+"remaining essentially unchanged dummy text typesetting."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:281
+msgid "Get In Touch"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:283
+msgid "Contact Information"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:289
+msgid "Opening Hours"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:290
+msgid ""
+"<span><strong>Monday - Friday :</strong> 9am to 20 pm</span>\n"
+"                  <span><strong>Saturday :</strong> 9am to 17 pm</span>\n"
+"                  <span><strong>\n"
+"                  Sunday :</strong> day off</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:343
+msgid "Subscriber Now"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:351
+msgid "Section About Description Here"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:355
+msgid "Contact Us"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:531
+msgid "The Better Way To Start The Business Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:532
+msgid "Hurry! Multipurpose Website Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:534
+msgid "Make A Website"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:542
+msgid "Wonderful Website a Real Winner"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:543
+msgid "Amazing Website WP Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:553
+msgid "Low Price With Great Features"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:554
+msgid "Order Now"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:556
+msgid "Discover More"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:577
+msgid "Marketing"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:585
+msgid "Professional"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:593
+msgid "Developing"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:601
+msgid "Designing"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:609
+msgid "Top Quality"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:617
+msgid "Quality Research"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:637
+msgid "Projects"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:638
+msgid "200"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:643
+msgid "Staff"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:644
+msgid "300"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:649
+msgid "Clients"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:650
+msgid "250"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:655
+msgid "Others"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:656
+msgid "400"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:673
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:680
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:687
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:694
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:701
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:708
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:715
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:722
+msgid "Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:741
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:748
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:755
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:762
+msgid "Laura Michelle"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:742
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:763
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:783
+msgid "Co Founder"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:743
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:750
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:757
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:764
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:749
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:799
+msgid "Manager"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:756
+msgid "Developer"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:782
+msgid "Alivia Latimer"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:790
+msgid "Katana Clark"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:791
+msgid "CEO"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:798
+msgid "Marshawn"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:806
+msgid "Taylan Austin"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:807
+msgid "Finacial Adviser"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:827
+msgid "Basic"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:828
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:843
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:858
+msgid ""
+"<li>Feature</li>\n"
+"                    <li>Feature</li>\n"
+"                    <li>Feature</li>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:842
+msgid "Premium"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:857
+msgid "Ultimate"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:884
+msgid "Call Us"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:885
+msgid "+01 - 123 456 7890"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:890
+msgid "Email Us"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:891
+msgid "info@example.com"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:896
+msgid "Store Hours"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:902
+msgid "Visit Us"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/pro-default-data.php:903
+msgid "725 Green St San Francisco, California(CA), 94133"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-meta-box.php:13
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:225
+msgid "Portfolio Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:15
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:16
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:17
+msgid "Add New portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:18
+msgid "New portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:19
+msgid "All portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:20
+msgid "View portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:21
+msgid "Search portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:22
+msgid "No Links found"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/register-custom-post-type.php:23
+msgid "No Links found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/taxonomy.php:16
+msgid "Porfolio Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:16
+msgid "Businesswp: About Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:18
+msgid "businesswp About Information Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:72
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:71
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-post-list.php:75
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:77
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:76
+msgid "Description:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:92
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:98
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:104
+msgid "LinkedIn URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-about.php:110
+msgid "Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:15
+msgid "Businesswp: Contact Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:17
+msgid "businesswp Contact Information Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:81
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:100
+msgid "Address"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:86
+msgid "Website:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:91
+msgid "Phone:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-contact.php:96
+msgid "Email:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-post-list.php:15
+msgid "Businesswp: Resent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-post-list.php:17
+msgid "businesswp Latest Posts Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/widget-post-list.php:80
+msgid "Number of post to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:6
+msgid "Customize Options Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:7
+#, php-format
+msgid ""
+"%s theme supports the theme customizer option panel settings. Click on below "
+"customize button to customize your theme."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:9
+msgid "Customize Your Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:13
+msgid "Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:14
+#, php-format
+msgid ""
+"Need to setup your %s WordPress theme? Please click on bottom button  to "
+"find the theme documentation."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:16
+msgid "Businesswp Theme Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:21
+msgid "Need Support?"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:22
+#, php-format
+msgid ""
+"If you have more queries with %s WordPress theme. Please click below button "
+"to create a ticket."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_about_theme.php:24
+msgid "Create a ticket"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_demo_import.php:7
+#, php-format
+msgid ""
+"<p>Congratulations! you have installed importer plugin successfully. Click "
+"Here to start <a href=\"%1$s\">Import Data</a></p>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_demo_import.php:16
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:375
+msgid "Install Now"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_demo_import.php:38
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:397
+msgid "Active Now"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_demo_import.php:55
+#, php-format
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_demo_import.php:56
+msgid "Hey."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_demo_import.php:57
+msgid "Theme Demo Importer"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:3
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:176
+msgid "Businesswp"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:8
+msgid "Unlimited Colors Schemes"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:16
+msgid "Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:23
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:38
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:53
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:76
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:91
+msgid "- Number of items"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:26
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:41
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:56
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:79
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:94
+msgid "Unlimited"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:31
+msgid "Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:40
+msgid "4"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:46
+msgid "Feature Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:55
+msgid "3"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:61
+msgid "Counter Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:69
+msgid "Team Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:78
+msgid "2"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:84
+msgid "Testimonial Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:99
+msgid "Portfolio Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:107
+msgid "Pricing Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:115
+msgid "Call To Action Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:123
+msgid "Blog Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:131
+msgid "Client Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:139
+msgid "Homepage Section Ordring"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:147
+msgid ""
+"Styling for sections ( Text Color, Background Color and Background Image)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:155
+msgid "About us page template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:163
+msgid "Service page template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:171
+msgid "Multiple blog layout page templates"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:179
+msgid "Multiple portfolio page templates"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:187
+msgid "Google Map in contact page template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:195
+msgid "Typography settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:203
+msgid "Spacing settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:211
+msgid "Multiple navigations"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:219
+msgid "24/7 Quality Support"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_free_vs_pro.php:226
+msgid "Get Businesswp Pro Theme!"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:23
+msgid "Recommend Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:33
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:52
+msgid "Dismiss"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:40
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:42
+msgid ""
+"In order to have the one page look for your website, please go to Customize -"
+"&gt; Static Front Page and switch \"Front page displays\" to \"A static page"
+"\"."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:45
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:69
+msgid "Setup front page displays"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:59
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:62
+msgid ""
+"In order to change homepage section contents, you will need to set template "
+"\"Frontpage\" for your homepage."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:76
+msgid "Change homepage page template"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:86
+#, php-format
+msgid "Keep %s updated"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/page_recommended_plugins.php:88
+msgid "Hey! There are no required actions found."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:33
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome "
+"page</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:42
+#, php-format
+msgid ""
+"Save time by import our demo data, your website will be set up and ready to "
+"customize in minutes. %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:108
+#, php-format
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] ""
+msgstr[1] ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:112
+#, php-format
+msgid "Businesswp %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:116
+msgid "Businesswp Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:120
+msgid "Businesswp Dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:163
+#, php-format
+msgid "Welcome to %2$s - Version %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:167
+msgid ""
+"Businesswp is a creative, clean, easy to use and modren multipurpose "
+"WordPress theme. This theme is perfect for any kind of bussiness like Spa, "
+"beauty salon, wellness center, natural health care beauty business, massage "
+"parlor, yoga studio, meditation classes, personal, corporate, agency, "
+"photography, wedding, portfolio, blogs, magazines and many others businesses."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:170
+msgid "Britetechs"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:181
+msgid "Free vs Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:187
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:256
+msgid "One Click Demo Import"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:215
+msgid "Quick customizer settings links"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:217
+msgid "Site Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:219
+msgid "Sub Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:221
+msgid "Menus Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:223
+msgid "Colors Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:227
+msgid "Blog Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:229
+msgid "Slider Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:231
+msgid "Service Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:233
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:235
+msgid "Typography Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:237
+msgid "Additional CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:244
+msgid "Advanced Features are available in businesswp Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:247
+msgid "Light &amp; Dark Color Schemes"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:248
+msgid "Google Fonts Supported"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:249
+msgid "Unlimited Colors"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:250
+msgid "Wide &amp; Boxed Layouts"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:251
+msgid "Multiple Header Layouts"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:252
+msgid "Blog Templates"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:253
+msgid "Section Reordering"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:254
+msgid "RTL Supported"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:255
+msgid "Premium Typography Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:257
+msgid "Live Customizer"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:258
+msgid "Translation Ready"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:259
+msgid "1 Year Free Updates"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:260
+msgid "Premium Supports"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/about-screen/welcome-screen.php:417
+msgid "Details"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-copyright/class/class-copyright-control.php:17
+msgid "<code>%current_year%</code> to update year automatically."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-copyright/class/class-copyright-control.php:18
+msgid "<code>%copy%</code> to include the copyright symbol."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-copyright/class/class-copyright-control.php:19
+msgid "HTML is allowed."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-copyright/class/class-copyright-control.php:20
+msgid "Shortcodes are allowed."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-spacing/class/class-spacing-control.php:29
+msgid "Margin"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-spacing/class/class-spacing-control.php:42
+msgid "Padding"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:22
+msgid "System Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:23
+msgid "Google Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:26
+msgid "Font family"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:27
+msgid "Font weight"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:28
+msgid "Text transform"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:30
+msgid "Variants"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:159
+msgid "normal"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:160
+msgid "bold"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:175
+msgid "none"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:176
+msgid "capitalize"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:177
+msgid "uppercase"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/customizer-typography/class/class-typography-control.php:178
+msgid "lowercase"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:24
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-background-setting.php:31
+msgid "Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:35
+msgid "Background Repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:39
+msgid "Repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:40
+msgid "Repeat x"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:41
+msgid "Repeat y"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:42
+msgid "No Repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:53
+msgid "Background Size"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:57
+msgid "Size (Auto)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:58
+msgid "100% Width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:59
+msgid "Cover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:60
+msgid "Contain"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:71
+msgid "Background Attachment"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:75
+msgid "Attachment"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:76
+msgid "Fixed"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:77
+msgid "Local"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:78
+msgid "Inherit"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:89
+msgid "Background Position"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/background-setting.php:90
+msgid "left top, x% y%, xpos ypos (px) or (%)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:18
+msgid "Theme Primary Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:34
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:98
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:162
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:430
+msgid "Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:50
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:114
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:178
+msgid "Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:66
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:130
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:194
+msgid "Link Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:82
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:146
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:210
+msgid "Link Color Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:226
+msgid "Site Title Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:242
+msgid "TagLine Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:258
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:338
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:450
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:562
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:674
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:770
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:866
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1078
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1164
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1248
+msgid "Background"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:290
+msgid "Button Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:306
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:386
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:498
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:610
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:722
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:818
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1360
+msgid "Text Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:324
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:548
+msgid "Parent Items"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:370
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:482
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:594
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:706
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:802
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1346
+msgid "Background Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:402
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:514
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:626
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:738
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:834
+msgid "Background Current"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:418
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:530
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:642
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:754
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:850
+msgid "Text Current"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:436
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:660
+msgid "Sub-Menu Items"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:908
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1120
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1206
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1290
+msgid "Link Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:922
+msgid "Content Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:936
+msgid "Blog Post Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:950
+msgid "Blog Post Title Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:964
+msgid "Entry Meta Text"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:978
+msgid "Entry Meta Links"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:992
+msgid "Entry Meta Links Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1006
+msgid "Heading (h1) Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1020
+msgid "Heading (h2) Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1034
+msgid "Heading (h3) Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1048
+msgid "Heading (h4) Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1062
+msgid "Heading (h5) Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1134
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1220
+msgid "Widget Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1152
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1306
+msgid "Footer Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1236
+msgid "Footer Bar"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1318
+msgid "Back to Top Button"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1376
+msgid "Form Background"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1390
+msgid "Form Text"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1404
+msgid "Form Background Focus"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1418
+msgid "Form Text Focus"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1432
+msgid "Form Border"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/color-setting.php:1446
+msgid "Form Border Focus"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-background-setting.php:43
+msgid "About Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:45
+#, php-format
+msgid "%s Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:59
+msgid "Background Animation Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:105
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:55
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-service-page-setting.php:40
+msgid "Description"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:121
+msgid "Divider Show"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:136
+msgid "Divider Type"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:157
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:149
+msgid "Subtitle Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:172
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:163
+msgid "Title Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:187
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:177
+msgid "Description Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:202
+msgid "Overlay Color Show"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:216
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:204
+msgid "Overlay Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:246
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:276
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:321
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:365
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:100
+msgid "Button URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:291
+msgid "Newsletter Form Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:335
+msgid "About Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:380
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:40
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:395
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:160
+msgid "Google Map Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:411
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:131
+msgid "Container Width"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:446
+msgid "Item Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:461
+msgid "Item Title Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-common-setting.php:476
+msgid "Item Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:14
+msgid "Slider Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:17
+msgid "Add new slide item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:18
+msgid "Slide Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:38
+msgid "service Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:41
+msgid "Add new service item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:42
+msgid "Service Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:59
+msgid "Funcfect Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:62
+msgid "Add new funfect item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:63
+msgid "Funfect Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:80
+msgid "Client Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:83
+msgid "Add new client item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:84
+msgid "Client Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:101
+msgid "Testimonial Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:104
+msgid "Add new testimonial item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:105
+msgid "Testimonial Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:124
+msgid "Team Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:127
+msgid "Add new team item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:128
+msgid "Team Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:147
+msgid "Pricing Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:150
+msgid "Add new pricing item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:151
+msgid "Pricing Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:171
+msgid "Contact Items Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:174
+msgid "Add new contact item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-content-setting.php:175
+msgid "Contact Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:24
+msgid "Slider Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:37
+msgid "Navigation Icons Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:51
+msgid "Pagination Dots Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:65
+msgid "Mouse Drag Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:79
+msgid "Slider Smart Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:105
+msgid "Slider Scroll Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/front-page-section-slider-setting.php:191
+msgid "Enable Overlay Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:22
+msgid "Separating Space (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:60
+msgid "Content Separating Space"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:100
+msgid "Content Padding (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:126
+msgid "Top Bar Padding (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:150
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:404
+msgid "Menu Toggle Button Label"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:167
+msgid "Menu Toggle Button Breakpoint (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:204
+msgid "Enable custom button"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:220
+msgid "Custom Button label"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:236
+msgid "Custom Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:253
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:523
+msgid "Menu Item Width (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:291
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:561
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:659
+msgid "Menu Item Height (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:329
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:599
+msgid "Sub-Menu Item Height (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:367
+msgid "Sub-Menu Width (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:501
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:636
+msgid "Navigation Position"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:505
+msgid "Above Header"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:506
+msgid "Below Header"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:507
+msgid "No Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:640
+msgid "Mobile Only"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:641
+msgid "Desktop Only"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:642
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:700
+msgid "On"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:643
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:701
+msgid "Off"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:696
+msgid "Off Canvas Navigation Show"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:716
+msgid "Excerpt Length"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:732
+msgid "Read More Label"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:748
+msgid "Display read more as button"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:765
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:918
+msgid "Display post date"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:781
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:934
+msgid "Display post author"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:797
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:950
+msgid "Display post categories"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:813
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:966
+msgid "Display post tags"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:829
+msgid "Display post comments count"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:847
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1000
+msgid "Featured Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:861
+msgid "Display featured image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:877
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1030
+msgid "Featured image position"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:881
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1034
+msgid "Above Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:882
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1035
+msgid "Below Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:897
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1050
+msgid "Featured image alignment"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:982
+msgid "Display post navigations"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1014
+msgid "Display post featured image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1094
+msgid "Single"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1121
+msgid "Footer Bar Alignment"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1143
+msgid "Footer Widget Area Padding (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1168
+msgid "Footer Padding (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1192
+msgid "Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/layout-setting.php:1209
+msgid "Widget Padding (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:26
+msgid "About Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:31
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:50
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:70
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:90
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:109
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:128
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:147
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:166
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:185
+msgid "Layout 1"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:32
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:51
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:71
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:91
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:110
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:129
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:148
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:167
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:186
+msgid "Layout 2"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:45
+msgid "Counter Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:52
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:72
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:187
+msgid "Layout 3"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:65
+msgid "Contact Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:85
+msgid "Portfolio Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:104
+msgid "Blog Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:123
+msgid "Pricing Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:142
+msgid "Testimonial Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:161
+msgid "Team Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/section-multiple-layout.php:180
+msgid "Service Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:115
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-service-page-setting.php:55
+msgid "Display Counter Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:130
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-service-page-setting.php:70
+msgid "Display Team Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:145
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-service-page-setting.php:85
+msgid "Display Testimonial Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:160
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-service-page-setting.php:100
+msgid "Display Client Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:184
+msgid "List Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:187
+msgid "Add new list item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-aboutus-page-setting.php:188
+msgid "List Item"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:25
+msgid "Contact Form Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:115
+msgid "Office Time Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:145
+msgid "Google Map Show"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/template-contactus-page-setting.php:183
+msgid "Contact Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:909
+msgid "Font Size (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:947
+msgid "Line Height (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:985
+msgid "P Margin Bottom (EM)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1023
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1076
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1129
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1167
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1205
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1243
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1281
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1334
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1459
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1584
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1709
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1798
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1888
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1962
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:2072
+msgid "Font Size (PX)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1063
+msgid "Site Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1116
+msgid "Site Tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1321
+msgid "Heading (H1)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1370
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1495
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1620
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1745
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1834
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1924
+msgid "Line Height"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1406
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1531
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1656
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1998
+msgid "Margin Bottom (PX)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1446
+msgid "Heading (H2)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1571
+msgid "Heading (H3)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1696
+msgid "Heading (H4)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1785
+msgid "Heading (H5)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:1874
+msgid "Heading (H6)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/customizer/setting/typography-setting.php:2034
+msgid "Widget Contents Font Size (PX)"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:35
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:39
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:40
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:41
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:48
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/pro/inc/updater/theme-updater.php:49
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/none.php:3
+#, php-format
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/none.php:5
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/none.php:7
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/none.php:9
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/none.php:11
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/none.php:13
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/entry/author-bio.php:12
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/entry/author_bio.php:12
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/entry/author-bio.php:21
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/entry/author_bio.php:21
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/entry/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/entry/navigation.php:17
+msgid "Post"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/footer/footer-copyright.php:14
+#, php-format
+msgid "Copyright %1$s %2$s %3$s <span>&ndash;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/template-parts/footer/footer-copyright.php:15
+#, php-format
+msgid " %1$s theme by %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\businesswp\wp-content\themes\businesswp-pro/woocommerce/add-to-cart.php:16
+msgid "Add To Cart"
+msgstr ""
