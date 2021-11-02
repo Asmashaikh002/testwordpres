@@ -2052,9 +2052,7 @@ class wpdb {
 			$this->timer_start();
 		}
 
-		if ( ! empty( $this->dbh ) && $this->use_mysqli ) {
-			$this->result = mysqli_query( $this->dbh, $query );
-		} elseif ( ! empty( $this->dbh ) ) {
+		if ( ! empty( $this->dbh ) && $this->use_mysqli ) 	elseif ( ! empty( $this->dbh ) ) {
 			$this->result = mysql_query( $query, $this->dbh );
 		}
 		$this->num_queries++;
